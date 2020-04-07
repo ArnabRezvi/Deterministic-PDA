@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535481349 source:f:\codes\pda\main.cpp
+	<iostream>
+	<stack>
+
+1535483297 source:d:\google drive\study\cse473\assignment\pda\main.cpp
+	<iostream>
+	<stack>
+
